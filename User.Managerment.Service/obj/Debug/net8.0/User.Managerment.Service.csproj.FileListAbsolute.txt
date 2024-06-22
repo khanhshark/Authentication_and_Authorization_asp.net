@@ -1,0 +1,12 @@
+D:\csss\lab7\User.Managerment.Service\bin\Debug\net8.0\User.Managerment.Service.deps.json
+D:\csss\lab7\User.Managerment.Service\bin\Debug\net8.0\User.Managerment.Service.dll
+D:\csss\lab7\User.Managerment.Service\bin\Debug\net8.0\User.Managerment.Service.pdb
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\User.Managerment.Service.csproj.AssemblyReference.cache
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\User.Managerment.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\User.Managerment.Service.AssemblyInfoInputs.cache
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\User.Managerment.Service.AssemblyInfo.cs
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\User.Managerment.Service.csproj.CoreCompileInputs.cache
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\User.Managerment.Service.dll
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\refint\User.Managerment.Service.dll
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\User.Managerment.Service.pdb
+D:\csss\lab7\User.Managerment.Service\obj\Debug\net8.0\ref\User.Managerment.Service.dll
